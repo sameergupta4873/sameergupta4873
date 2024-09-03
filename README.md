@@ -7,6 +7,11 @@
 <a href="https://www.linkedin.com/in/sameergupta771" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameergupta771" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Hire me:</h3>
+<p align="left">
+<a href="https://www.upwork.com/freelancers/sameerg7?mp_source=share" target="_blank"><img align="center" src="https://pangrampangram.com/cdn/shop/articles/442269ac56eddaecd3fa3dd752c38870_1920x.jpg?v=1631828825" alt="sameer_gupta_21" height="40" width="60" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="typescript" width="40" height="40" /> </a>

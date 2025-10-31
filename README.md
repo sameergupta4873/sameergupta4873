@@ -1,11 +1,4 @@
 <h1>Hi 👋, I'm Sameer</h1>
-- 📫 Reach me: <a href="mailto:sameergupta4873@gmail.com" target="_blank">sameergupta4873@gmail.com</a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sameer_gupta_21" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameer_gupta_21" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sameergupta771" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameergupta771" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Hire me:</h3>
 <p align="left">
